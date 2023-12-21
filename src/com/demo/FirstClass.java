@@ -7,6 +7,7 @@ public class FirstClass {
 		
 		
 		System.out.println("Welcome to MyHub");
+		System.out.println("Welcome to MyHub");
 
 	}
 
